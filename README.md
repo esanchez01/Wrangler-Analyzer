@@ -5,4 +5,4 @@ The data wrangling and analysis process can be long and complex. This is especia
 
 Through this notebook you have the ability to drop columns/rows, alter the headers, geocode, explore column statistics, filter the data set, and visualize.
 
-This notebook was developed using primarily Pandas and Holoviz. To run simply click the 'launch binder' badge above. Enjoy!
+This notebook was developed using primarily Pandas and Holoviz. Please note that performance issues may occur if working with large data sets as this is hosted on the cloud. To run simply click the 'launch binder' badge above. Enjoy!
