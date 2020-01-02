@@ -2,7 +2,8 @@ attrs==18.2.0
 Babel==2.7.0         
 bokeh==1.3.4       
 branca==0.3.1          
-Click==7.0           
+Click==7.0    
+cloudpickle==1.2.2
 colorcet==2.0.2       
 dask==2.1.0      
 datashader==0.7.0       
