@@ -9,5 +9,5 @@ panel==0.6.3
 param==1.9.1
 pyct==0.4.6
 pyviz-comms==0.7.2
-requests==2.12.4
+requests==2.20.0
 xarray==0.12.3
