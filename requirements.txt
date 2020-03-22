@@ -4,5 +4,6 @@ holoviews==1.12.5
 hvplot==0.4.0               
 numpy==1.17.2          
 pandas==0.25.2        
-panel==0.6.3            
-requests==2.12.4       
+panel==0.6.3
+requests==2.12.4
+xarray==0.12.3
